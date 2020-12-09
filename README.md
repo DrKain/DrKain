@@ -1,6 +1,7 @@
 ## ♡ Hi there    
 I'm Kain. Programmer, Procrastinator and Pessimist. Here's my [website](https://ksir.pw) where you'll find nothing exciting.    
 I'm not a doctor, the Dr in my name is because the username "Kain" is often taken.  
+I abhor social media. You will not find me on Facebook, Instagram, TikTok or whatever is popular these days. I'm on Discord but that's about it.  
 
 ## ♡ GitHub Suggested  
 
@@ -11,8 +12,8 @@ I'm not a doctor, the Dr in my name is because the username "Kain" is often take
 - 💬 Ask me about **music**
 - 📫 How to reach me: **Discord -> Kain#6880**  
 - 😄 Pronouns: Lol.
-- ⚡ Fun fact: I love [data hoarding](https://www.reddit.com/r/DataHoarder/)
-
+- ⚡ Fun fact: I love [data hoarding](https://www.reddit.com/r/DataHoarder/) and [listening to music](https://www.last.fm/user/KainSir)    
+- 🎶 Favorite Band: Poets of the Fall  
 
 ## ♡ Bots  
 
