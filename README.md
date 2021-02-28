@@ -5,15 +5,14 @@ I abhor social media. You will not find me on Facebook, Instagram, TikTok or wha
 
 ## ♡ GitHub Suggested  
 
-- 🔭 I’m currently working on **Nothing!**
+- 🔭 I’m currently working on **[subclean](https://github.com/DrKain/subclean)**
 - 🌱 I’m currently learning **TypeScript + Angular**  
 - 👯 I’m looking to collaborate on **Anything**
 - 🤔 I’m looking for help with **[scrape-youtube](https://github.com/DrKain/scrape-youtube)**    
 - 💬 Ask me about **music**
 - 📫 How to reach me: **Discord -> Kain#6880**  
-- 😄 Pronouns: Lol.
 - ⚡ Fun fact: I love [data hoarding](https://www.reddit.com/r/DataHoarder/) and [listening to music](https://www.last.fm/user/KainSir)    
-- 🎶 Favorite Band: Poets of the Fall  
+- 🎶 Favorite Band: [Poets of the Fall](https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn)  
 
 ## ♡ Bots  
 
