@@ -5,7 +5,7 @@ I abhor social media. You will not find me on Facebook, Instagram, TikTok or wha
 
 ## ♡ GitHub Suggested  
 
-- 🔭 I’m currently working on **[subclean](https://github.com/DrKain/subclean)**
+- 🔭 I’m currently working on **[subclean](https://github.com/DrKain/subclean) & [tidy-url](https://github.com/DrKain/tidy-url)**
 - 🌱 I’m currently learning **TypeScript + Angular**  
 - 👯 I’m looking to collaborate on **Anything**
 - 🤔 I’m looking for help with **[scrape-youtube](https://github.com/DrKain/scrape-youtube)**    
