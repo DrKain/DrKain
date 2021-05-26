@@ -14,11 +14,6 @@ I abhor social media. You will not find me on Facebook, Instagram, TikTok or wha
 - ⚡ Fun fact: I love [data hoarding](https://www.reddit.com/r/DataHoarder/) and [listening to music](https://www.last.fm/user/KainSir)    
 - 🎶 Favorite Band: [Poets of the Fall](https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn)  
 
-## ♡ Bots  
-
-Since 2018 I'm not looking for work. If you want a Discord or Steam bot I can probably make it for free depending on the complexity. 
-You can add me on Discord (Kain#6880) to discuss more.
-
 ## ♡ GitHub Stats  
 
 ![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true)
