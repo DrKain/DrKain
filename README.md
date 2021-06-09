@@ -31,5 +31,5 @@ I abhor social media. You will not find me on Facebook, Instagram, TikTok or wha
 [![Git](https://shields.io/badge/Git-F05032?logo=Git&logoColor=FFF&style=flat-square)](https://git-scm.com/)
 [![DigitalOcean](https://shields.io/badge/DigitalOcean-0080FF?logo=DigitalOcean&logoColor=FFF&style=flat-square)](https://www.digitalocean.com/?refcode=414219dbe45a)
 [![MongoDB](https://shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=FFF&style=flat-square)](https://www.mongodb.com/)
-[![MusicBrainz](https://shields.io/badge/MusicBrainz-BA478F?logo=MusicBrainz&logoColor=FFF&style=flat-square)](https://musicbrainz.org/user/DrKain)
+[![MusicBrainz](https://shields.io/badge/MusicBrainz-BA478F?logo=MusicBrainz&logoColor=FFF&style=flat-square)](https://musicbrainz.org/user/DrKain)  
 <sup>Generated using [this tool](https://s0.ksir.pw/shields/)</sup>
