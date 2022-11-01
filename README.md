@@ -18,7 +18,9 @@ Last song I listened to was...
 
 ## ♡ Stats  
   
+<!--
 [![1](https://img.shields.io/endpoint?label=downloads&logo=npm&url=https%3A%2F%2Fcombined-npm-downloads-j1exvvhw8l5h.runkit.sh%2F%3Fperiod%3Dlast-month%26packages%3Dscrape-youtube%2Ctidy-url%2Csteam-market-search%2Cimvdb%2Csubclean%2Caudd.io%2Cfetch-avatar)](https://www.npmjs.com/~kainsir)  
+-->
 [![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/DrKain)  
 <sup> Generated using [this tool](https://github.com/anuraghazra/github-readme-stats)</sup>  
 
