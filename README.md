@@ -6,21 +6,19 @@ Last song I listened to was...
 [![1](https://api.ksir.pw/v1/lastfm/now-playing?user=KainSir&render=1)](https://www.last.fm/user/KainSir)    
 <sup> Generated using [this tool](https://github.com/DrKain/last.fm-badges)</sup>  
 
-## ♡ GitHub Suggested  
-
+## ♡ Quick Info 
+  
+- 📫 How to reach me: **Discord → Kain#6880**  
 - 🔭 I’m currently working on **[subclean](https://github.com/DrKain/subclean) & [tidy-url](https://github.com/DrKain/tidy-url)**
 - 🌱 I’m currently learning **Angular**  
-- 👯 I’m looking to collaborate on **Anything**
-- 🤔 I’m looking for help with **[tidy-url](https://github.com/DrKain/tidy-url)**    
-- 📫 How to reach me: **Discord → Kain#6880**  
-- ⚡ Fun fact: I love [data hoarding](https://www.reddit.com/r/DataHoarder/) and [music](https://www.last.fm/user/KainSir)    
+- 👯 I’m looking to collaborate on **-**   
+- 🤔 I’m looking for help with **[tidy-url](https://github.com/DrKain/tidy-url)**  
+- ⚡ I'm a fan of [data hoarding](https://www.reddit.com/r/DataHoarder/) and [music](https://www.last.fm/user/KainSir)    
 - 🎶 Favorite Band: [Poets of the Fall](https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn)  
 
 ## ♡ Stats  
   
-<!--
 [![1](https://img.shields.io/endpoint?label=downloads&logo=npm&url=https%3A%2F%2Fcombined-npm-downloads-j1exvvhw8l5h.runkit.sh%2F%3Fperiod%3Dlast-month%26packages%3Dscrape-youtube%2Ctidy-url%2Csteam-market-search%2Cimvdb%2Csubclean%2Caudd.io%2Cfetch-avatar)](https://www.npmjs.com/~kainsir)  
--->
 [![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/DrKain)  
 <sup> Generated using [this tool](https://github.com/anuraghazra/github-readme-stats)</sup>  
 
