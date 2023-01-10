@@ -1,5 +1,5 @@
 ## ♡ Hi there      
-I’m a bit of a ninja online but I'm still very much active in my repos, I'll usually respond to any issue or PR within a day.  
+I'm on holiday at the moment but I'll make an effort to respond to any issue or PR within a day.  
 I abhor social media. You will not find me on Facebook, Instagram, TikTok or whatever is popular these days. The best and fastest way to contact me would be through discord ([tag below](#-quick-info)) or email (on the left for logged-in users).   
 
 Last song I listened to was...  
