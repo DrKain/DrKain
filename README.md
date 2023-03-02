@@ -18,7 +18,7 @@ Last song I listened to was...
 
 ## ♡ Stats  
   
-[![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/DrKain)  
+[![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/DrKain)  
 <sup> Generated using [this tool](https://github.com/anuraghazra/github-readme-stats)</sup>  
 
 ## ♡ Tools & Languages  
