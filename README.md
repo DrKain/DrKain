@@ -1,10 +1,5 @@
-## ♡ Hi there      
 I'm on holiday at the moment but I'll make an effort to respond to any issue or PR within a day.  
 I abhor social media. You will not find me on Facebook, Instagram, TikTok or whatever is popular these days. The best and fastest way to contact me would be through discord ([tag below](#-quick-info)) or email (on the left for logged-in users).   
-
-Last song I listened to was...  
-[![1](https://api.ksir.pw/v1/lastfm/now-playing?user=KainSir&render=1)](https://www.last.fm/user/KainSir)    
-<sup> Generated using [this tool](https://github.com/DrKain/last.fm-badges)</sup>  
 
 ## ♡ Quick Info 
   
@@ -20,18 +15,3 @@ Last song I listened to was...
   
 [![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/DrKain)  
 <sup> Generated using [this tool](https://github.com/anuraghazra/github-readme-stats)</sup>  
-
-## ♡ Tools & Languages  
-
-[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
-[![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://www.javascript.com/)
-[![PowerShell](https://shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=FFF&style=flat-square)](https://docs.microsoft.com/en-us/powershell/)
-[![.NET](https://shields.io/badge/.NET-512BD4?logo=.NET&logoColor=FFF&style=flat-square)](https://dotnet.microsoft.com/)
-[![Vue.js](https://shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=FFF&style=flat-square)](https://vuejs.org/)
-[![Angular](https://shields.io/badge/Angular-DD0031?logo=Angular&logoColor=FFF&style=flat-square)](https://angular.io/)
-[![npm](https://shields.io/badge/npm-CB3837?logo=npm&logoColor=FFF&style=flat-square)](https://www.npmjs.com/)
-[![Git](https://shields.io/badge/Git-F05032?logo=Git&logoColor=FFF&style=flat-square)](https://git-scm.com/)
-[![DigitalOcean](https://shields.io/badge/DigitalOcean-0080FF?logo=DigitalOcean&logoColor=FFF&style=flat-square)](https://www.digitalocean.com/?refcode=414219dbe45a)
-[![MongoDB](https://shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=FFF&style=flat-square)](https://www.mongodb.com/)
-[![MusicBrainz](https://shields.io/badge/MusicBrainz-BA478F?logo=MusicBrainz&logoColor=FFF&style=flat-square)](https://musicbrainz.org/user/DrKain)  
-<sup>Generated using [this tool](https://s0.ksir.pw/shields/)</sup>
