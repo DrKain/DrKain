@@ -13,5 +13,5 @@ I abhor social media. You will not find me on Facebook, Instagram, TikTok or wha
 
 ## ♡ Stats  
   
-[![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/DrKain)  
+[![dgs](https://github-readme-stats.vercel.app/api?username=DrKain&show_icons=true&hide_border=false&include_all_commits=true&hide=contribs)](https://github.com/DrKain)  
 <sup> Generated using [this tool](https://github.com/anuraghazra/github-readme-stats)</sup>  
