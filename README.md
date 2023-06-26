@@ -3,7 +3,7 @@ I abhor social media. You will not find me on Facebook, Instagram, TikTok or wha
 
 ## ♡ Quick Info 
   
-- 📫 How to reach me: **Discord → Kain#6880**  
+- 📫 How to reach me: **Discord → kainsir**  
 - 🔭 I’m currently working on **[subclean](https://github.com/DrKain/subclean) & [tidy-url](https://github.com/DrKain/tidy-url)**
 - 🌱 I’m currently learning **Angular**  
 - 👯 I’m looking to collaborate on **-**   
