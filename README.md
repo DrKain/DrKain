@@ -4,7 +4,7 @@ I abhor social media. You will not find me on Facebook, Instagram, TikTok or wha
 ## ♡ Quick Info 
   
 - 📫 How to reach me: **Discord → drkain**  
-- 🔭 I’m currently working on **[subclean](https://github.com/DrKain/subclean) & [tidy-url](https://github.com/DrKain/tidy-url)**
+- 🔭 I’m currently working on **[tidy-url](https://github.com/DrKain/tidy-url)**
 - 🌱 I’m currently learning **Angular**  
 - 👯 I’m looking to collaborate on **-**   
 - 🤔 I’m looking for help with **[tidy-url](https://github.com/DrKain/tidy-url)**  
