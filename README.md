@@ -1,4 +1,4 @@
-I'm on holiday at the moment but I'll make an effort to respond to any issue or PR within a day.  
+I'm on holiday at the moment but I'll make an effort to respond to any issue or PR as soon as possible.  
 I abhor social media. You will not find me on Facebook, Instagram, TikTok or whatever is popular these days. The best and fastest way to contact me would be through discord ([tag below](#-quick-info)) or email (on the left for logged-in users).   
 
 ## ♡ Quick Info 
