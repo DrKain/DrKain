@@ -1,4 +1,4 @@
-I'm very sick at the moment and will not be very active on GitHub. I'm sorry for any inconvenience this may cause for people using my tools/libaries, if you need an urgent change then the best action might be forking the repo.  
+I'm very sick at the moment and will not be very active on GitHub. I'm sorry for any inconvenience this may cause for people using my tools/libraries, if you need an urgent change then the best action might be forking the repo.  
 
 
 I abhor social media. You will not find me on Facebook, Instagram, TikTok or whatever is popular these days. The best and fastest way to contact me would be through discord ([tag below](#-quick-info)) or email (on the left for logged-in users).   
